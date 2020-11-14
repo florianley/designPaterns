@@ -4,6 +4,6 @@ public class Golf extends WolksVagenCar {
 
     @Override
     public void methodeA() {
-        System.out.println("Je suis une Golf");
+        System.out.println("I'm a Golf");
     }
 }
